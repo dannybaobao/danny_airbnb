@@ -1,0 +1,5 @@
+/* // 统一,css提供的导入规则,区别于html提供的link */
+@import "./reset.css";
+@import "./common.css";
+/* // 也可以在index.js引入 */
+/* // @import '~antd/dist/antd.less'; */
